@@ -48,7 +48,7 @@ class Main extends React.Component{
 
     if (re.test(this.state.email)){
         const payload = {"email":this.state.email}
-        axios.post("https://zeeno.app", payload)
+        axios.post("https://zeeno.app/", payload)
         .then(response => {
             console.log("success")
         this.setState({email:"",message:"Succesfully submitted."})
