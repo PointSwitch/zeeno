@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab7ceed8.css",
+    "main.js": "/static/js/main.08c5af88.js",
+    "static/js/787.8f19f219.chunk.js": "/static/js/787.8f19f219.chunk.js",
+    "static/media/levente.jpg": "/static/media/levente.5b1432bb1cf526308543.jpg",
+    "static/media/eth.png": "/static/media/eth.be0a0d1c89eae2a4a5de.png",
+    "static/media/Montserrat-Light-Alt1.otf": "/static/media/Montserrat-Light-Alt1.02885c704e9eb9a2fa48.otf",
+    "static/media/vr-glasses.png": "/static/media/vr-glasses.89fcdb6546f5afcddc57.png",
+    "static/media/nft.png": "/static/media/nft.419bd93fc1e87601a17e.png",
+    "static/media/erikdz.jpg": "/static/media/erikdz.af500c023ad2116e1fb5.jpg",
+    "static/media/fryderyk.jpg": "/static/media/fryderyk.4c015e6985d2e354ca41.jpg",
+    "static/media/cursor.png": "/static/media/cursor.62e89129021e4d55340e.png",
+    "index.html": "/index.html",
+    "main.ab7ceed8.css.map": "/static/css/main.ab7ceed8.css.map",
+    "main.08c5af88.js.map": "/static/js/main.08c5af88.js.map",
+    "787.8f19f219.chunk.js.map": "/static/js/787.8f19f219.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab7ceed8.css",
+    "static/js/main.08c5af88.js"
+  ]
+}
