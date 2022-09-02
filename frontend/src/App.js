@@ -7,7 +7,7 @@ import {
 import Main from "./components/main/main.jsx";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "./App.css"
-import AboutUs from "./components/main/aboutus.jsx";
+import AboutUs from "./components/aboutus/aboutus.jsx";
 
 
 function App() {
