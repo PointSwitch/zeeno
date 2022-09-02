@@ -10,7 +10,7 @@ function Footer(){
                     </Col>
                     <Col>
                     <div style={{display:"flex", justifyContent:"space-around"}}>
-                    <a style={{color:"white", textDecoration:"none"}} href="/aboutus">About Us</a>
+                    <a style={{color:"white", textDecoration:"none"}} href="./components/aboutus">About Us</a>
                     <a>Get into contact</a>
                     </div>
                     </Col>
